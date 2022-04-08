@@ -107,7 +107,7 @@ class _LoginscrrenState extends State<Loginscrren> {
                                       ),
                                       TextFormField(
                                         decoration: InputDecoration(
-                                            hintText: 'Country'
+                                            hintText: 'Countrys'
                                         ),
                                         keyboardType: TextInputType.streetAddress,
                                       ),
