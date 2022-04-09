@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093155791335",
+    "project_id": "peserviceslogin",
+    "storage_bucket": "peserviceslogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093155791335:android:c50ad83e303d599da91d42",
+        "android_client_info": {
+          "package_name": "com.example.peservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093155791335-bm9jigaousqqi7fpfed3ke4ogvcsbuqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj2c9pwHmOX5kBX0zgQ-pYFbKRTCUPgHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093155791335-bm9jigaousqqi7fpfed3ke4ogvcsbuqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
